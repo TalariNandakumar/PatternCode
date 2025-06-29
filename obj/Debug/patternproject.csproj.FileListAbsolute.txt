@@ -1,0 +1,8 @@
+C:\Users\talar_0neg\source\repos\patternproject\patternproject\bin\Debug\patternproject.exe.config
+C:\Users\talar_0neg\source\repos\patternproject\patternproject\bin\Debug\patternproject.exe
+C:\Users\talar_0neg\source\repos\patternproject\patternproject\bin\Debug\patternproject.pdb
+C:\Users\talar_0neg\source\repos\patternproject\patternproject\obj\Debug\patternproject.csproj.AssemblyReference.cache
+C:\Users\talar_0neg\source\repos\patternproject\patternproject\obj\Debug\patternproject.csproj.CoreCompileInputs.cache
+C:\Users\talar_0neg\source\repos\patternproject\patternproject\obj\Debug\patternproject.exe
+C:\Users\talar_0neg\source\repos\patternproject\patternproject\obj\Debug\patternproject.pdb
+C:\Users\talar_0neg\source\repos\patternproject\patternproject\obj\Debug\patternproject.exe.config
